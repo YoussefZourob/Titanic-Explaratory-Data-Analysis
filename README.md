@@ -1,4 +1,4 @@
-# Titanic-Explaratory-Data-Analysis
+# Titanic Explaratory Data Analysis
 
 Perform a basic exploratory data analysis of the Titanic dataset and answer some questions.
 
